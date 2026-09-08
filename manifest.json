@@ -1,0 +1,9 @@
+{
+  "Name": "Мультитул",
+  "Author": "Multitool",
+  "Version": "1.0.25",
+  "Description": "Улучшаемый мультитул: топор и кирка в одном инструменте, с улучшениями у Клинта.",
+  "UniqueID": "Multitool.Mod",
+  "EntryDll": "Multitool.dll",
+  "MinimumApiVersion": "4.4.0"
+}
